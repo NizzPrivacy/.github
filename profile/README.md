@@ -8,7 +8,9 @@
 
 - ### [🌍 Website](https://nizz.tech): The Nizz website.
 - ### [🌍 Twitter](https://twitter.com/nizzprivacy): The Nizz website.
-- ### [🌍 Nizz Cloud](https://cloud.nizz.tech/): The Nizz website.
+- ### [🌍 Nizz Cloud](https://cloud.nizz.tech/)
+- ### [🌍 Nizz Music](https://music.nizz.tech/)
+
 
 # Get Nizz
 
