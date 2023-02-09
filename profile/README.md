@@ -7,7 +7,7 @@
 # Links
 
 - ### [🌍 Website](https://nizz.tech): The Nizz website.
-- ### [🌍 Twitter](https://twitter.com/nizzprivacy): The Nizz website.
+- ### [🌍 Twitter](https://twitter.com/nizzprivacy): Our official Twitter
 - ### [🌍 Nizz Cloud](https://cloud.nizz.tech/)
 - ### [🌍 Nizz Music](https://music.nizz.tech/)
 
